@@ -1,3 +1,4 @@
+import unittest
 def get(array, index, default=None):
     """
     Извлекает из списка значение по указанному индексу, если индекс существует.
